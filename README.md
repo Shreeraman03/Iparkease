@@ -1,28 +1,42 @@
-ParkEase:
-Online Parking Reservation System 🚗
+ParkEase
+---------------------------------------------------------------------------------------------------------------------------
+Welcome to the Parking System web application repository! This application allows users to remotely reserve parking spaces, view reservation history, and navigate to their reserved spaces with ease.
 
-Overview:
-ParkEase is a web-based solution that simplifies parking by allowing users to reserve spaces remotely. It eliminates the hassle of searching for parking, reduces queues, and offers a seamless, time-saving experience.
+Table of Contents
+----------------------
+Introduction
+Features
+Getting Started
+Usage
+Technologies Used
+Contributing
+License
 
-Features:
-Real-Time Availability: Check and reserve available spaces instantly.
-User-Friendly Design: Responsive interface for all devices.
-Geolocation: Navigate parking lots with visual maps.
-Secure Payments: Multiple options with instant confirmation.
-Waitlist Management: Reserve popular spaces with ease.
+Introduction
+---------------------
+This web application provides an intuitive interface for users to reserve parking spaces using their mobile devices. It aims to streamline the parking reservation process, reduce physical queues, and enhance the overall user experience.
 
-Technologies Used:
-Frontend: HTML, CSS, JavaScript
-Styling: Custom CSS for modern, responsive design
+Features
+------------
+User-friendly Interface: A clean and responsive design for easy navigation on various devices.
+Real-time Space Availability: Displays the current number of available parking spaces in real-time.
+Profile and Reservation History: Users can view their profile information and reservation history within the application.
+Navigation to Reserved Space: Integrates geolocation services to guide users to their reserved parking spaces.
+Secure Payment Integration: Implements a secure payment system for seamless transactions through smartphones.
+Getting Started
+To get started with the Parking System web application, follow these steps:
+Clone the repository to your local machine.
+Open the index.html file in a web browser.
+Explore the features and functionalities.
 
-How to Use:
-View parking availability.
-Select a time and location.
-Complete booking through the payment gateway.
+Usage
+----------------
+Reserving a Parking Space: Click on the "Reserve Parking Space" button to initiate the reservation process.
+Navigating to Reserved Space: Use the "Navigate to Reserved Space" button to open Google Maps for navigation.
+Technologies Used
+HTML
+CSS
+JavaScript
 
-Contributors:
-Developed by TechTitans:
-Chandreshaker K. R.
-Abhishek S. P.
-Arun Balajee A. P.
-Shree Ram A. N.
+Thank you for using the Parking System web application! Feel free to explore, contribute, and make the parking experience more convenient for users.
+------------------------------------------------------------------------------------------------------------------------
