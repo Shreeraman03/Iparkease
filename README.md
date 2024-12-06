@@ -36,19 +36,19 @@ How to Use
 -----------------------------------------------------------------------------
 To get started with the Parking System web application, follow these steps:
 
-Clone the repository to your local machine.
+-> Clone the repository to your local machine.
 
-Open the index.html file in a web browser.
+-> Open the index.html file in a web browser.
 
-Explore the features and functionalities.
+-> Explore the features and functionalities.
 
 Usage
 ------------------------------------------------
-View parking availability.
+-> View parking availability.
 
-Select a time and location.
+-> Select a time and location.
 
-Complete booking through the payment gateway.
+-> Complete booking through the payment gateway.
 
 Technologies Used
 --------------------
