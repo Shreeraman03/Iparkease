@@ -5,10 +5,15 @@ Welcome to the Parking System web application repository!
 Table of Contents
 ----------------------
 Overview
+
 Features
+
 How to use
+
 Usage
+
 Technologies Used
+
 Contributers
 
 Overview
