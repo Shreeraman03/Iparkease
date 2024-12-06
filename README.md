@@ -44,12 +44,16 @@ Complete booking through the payment gateway.
 Technologies Used
 --------------------
 HTML
+
 CSS
+
 JavaScript
 
 Contributors
 ---------------------
 Chandrashekar K R
+
 Abhishek P
+
 Arun Balajee A P
 
